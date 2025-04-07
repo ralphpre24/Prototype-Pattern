@@ -1,6 +1,6 @@
 # Prototype-Pattern
 Week 14 -15 Prototype Pattern
-Laboratory
+Laboratory Seatwork #: 6
 
 UML Class Diagram:
 

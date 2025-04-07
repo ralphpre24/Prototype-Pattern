@@ -22,3 +22,15 @@ class Sheep implements Animal {
     public String getType() {
         return "Sheep";
     }
+
+     // Getters and setters (optional)
+    public int getLegs() { return legs; }
+    public String getSound() { return sound; }
+    public String getFood() { return food; }
+    public String getName() { return name; }
+
+    public void setLegs(int legs) { this.legs = legs; }
+    public void setSound(String sound) { this.sound = sound; }
+    public void setFood(String food) { this.food = food; }
+    public void setName(String name) { this.name = name; }
+}
